@@ -28,7 +28,9 @@ Prof. Sajjad is a **World top-2% Scientist** (2025: Environmental Sciences and G
 </div>
 
 <div align="center">
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=msajjad3&color=0066CC&label=Profile+Views&style=flat-square)
+
 </div>
 
 <!--
