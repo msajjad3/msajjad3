@@ -1,4 +1,4 @@
-## Prof. SAJJAD Muhammad
+### Prof. SAJJAD Muhammad
 
 ## 🔭 Current Work
 - **Building**: Technology integrated solutions for DRR(link) - Brief description
