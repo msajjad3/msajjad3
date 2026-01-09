@@ -3,8 +3,6 @@
 # Prof. SAJJAD Muhammad
 #### Geographer | Researcher | Risks-Resilience-Sustainability Nexus | GeoAI, Machine Learning, Spatial-information Models
 
-![Profile Views](https://komarev.com/ghpvc/?username=msajjad3&color=0066CC&label=Profile+Views&style=flat-square)
-
 </div>
 
 Prof. Sajjad is a **World top-2% Scientist** (2025: Environmental Sciences and Geography). Currently, he works as a Research Assistant Professor in the Department of Geography and Resource Management at the Chinese University of Hong Kong. His research focuses on geospatial data science for disaster risk reduction, vulnerability and resilience assessment, and science-informed planning. His work couples GeoAI, remote sensing, machine learning, and spatial modeling to address complex human-environment challenges.
@@ -24,6 +22,7 @@ Prof. Sajjad is a **World top-2% Scientist** (2025: Environmental Sciences and G
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-1576-1342)
 [![Personal Website](https://img.shields.io/badge/Personal_Site-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://msajjad3.github.io/)
 
+![Profile Views](https://komarev.com/ghpvc/?username=msajjad3&color=0066CC&label=Profile+Views&style=flat-square)
 
 <!--
 **msajjad3/msajjad3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
