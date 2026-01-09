@@ -24,27 +24,6 @@ Prof. Sajjad is a **World top-2% Scientist** (2025: Environmental Sciences and G
 [![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:muhammadsajjad@cuhk.edu.hk)
 [![Personal Website](https://img.shields.io/badge/Personal_Site-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://msajjad3.github.io/)
 
-<div class="social-links">
-    <a href="https://github.com/msajjad3" class="social-link" title="GitHub" target="_blank">
-        <i class="fab fa-github"></i>
-    </a>
-    <a href="https://scholar.google.com/citations?user=iuXamUEAAAAJ" class="social-link" title="Google Scholar" target="_blank">
-        <i class="fas fa-graduation-cap"></i>
-    </a>
-    <a href="https://x.com/Mah_Sajjad" class="social-link" title="X" target="_blank">
-        <i class="fab fa-x"></i>
-    </a>
-    <a href="https://www.linkedin.com/in/muhammad-sajjad-ph-d-05590865/" class="social-link" title="LinkedIn" target="_blank">
-        <i class="fab fa-linkedin-in"></i>
-    </a>
-    <a href="https://www.researchgate.net/profile/Muhammad-Sajjad-Phd?ev=hdr_xprf" class="social-link" title="ResearchGate" target="_blank">
-        <i class="fab fa-researchgate"></i>
-    </a>
-    <a href="https://orcid.org/0000-0002-1576-1342" class="social-link" title="ORCID" target="_blank">
-        <i class="fab fa-orcid"></i>
-    </a>
-</div>
-
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=msajjad3&color=0066CC&label=Profile+Views&style=flat-square)
