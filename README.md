@@ -1,7 +1,10 @@
-### Prof. SAJJAD Muhammad
+# Prof. SAJJAD Muhammad
+Prof. Sajjad is a **World top-2% Scientist** (2025: Environmental Sciences and Geography). Currently, he works as a Research Assistant Professor in the Department of Geography and Resource Management at the Chinese University of Hong Kong. His research focuses on geospatial data science for disaster risk reduction, vulnerability and resilience assessment, and science-informed planning. His work couples GeoAI, remote sensing, machine learning, and spatial modeling to address complex human-environment challenges.
+-Dr. Sajjad has also been selected as a **Chapter Scientist** to work on the **IPCC's AR7, WG-II, Chapter 2**.
 
-## 🔭 Current Work
-- **Building**: Technology integrated solutions for DRR(link) - Brief description
+## About my Work
+-Dr. Sajjad runs the **SAJJAD Lab** (**S**patial **A**nalytics for **J**ust & **J**oint **A**daptation to **D**isasters), a research group at the Department of Geography and Resource Management, The Chinese University of Hong Kong, HKSAR, dedicated to advancing geospatial intelligence for systemic resilience.
+
 
 
 ## 🌐 Connect with me
@@ -13,9 +16,6 @@
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-1576-1342)
 [![Personal Website](https://img.shields.io/badge/Personal_Site-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://msajjad3.github.io/)
 
-
-## 📊 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=msajjad3&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **msajjad3/msajjad3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
