@@ -12,9 +12,9 @@ Brief description and key features.
 
 ## 📫 How to Reach Me
 - Email: muhammadsajjad@cuhk.edu.hk
-- LinkedIn: [[Your Name](https://www.linkedin.com/in/muhammad-sajjad-ph-d-05590865/)](link)
+- LinkedIn: https://www.linkedin.com/in/muhammad-sajjad-ph-d-05590865/)
 - Twitter: [@yourhandle](link)
-- Portfolio: [yourwebsite.com](link)
+- Portfolio: [yourwebsite.com][(link)](https://msajjad3.github.io/)
 
 ## 📊 GitHub Stats
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=msajjad3&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
