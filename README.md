@@ -14,7 +14,7 @@ Brief description and key features.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/muhammad-sajjad-ph-d-05590865/))
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Mah_Sajjad)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/msajjad3)
-[![Hotmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadsajjad@cuhk.edu.hk)
+[![Hotmail](https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadsajjad@cuhk.edu.hk)
 
 
 ## 📊 GitHub Stats
