@@ -1,8 +1,9 @@
 <div align="center">
 
-![Prof. SAJJAD Muhammad](https://img.shields.io/badge/Prof._SAJJAD_Muhammad-0066CC?style=for-the-badge&logoColor=white)
-![Geographer | Researcher | Risks-Resilience-Sustainability Nexus](https://img.shields.io/badge/Geographer_|_Researcher_|_Risks--Resilience--Sustainability_Nexus-1E90FF?style=flat-square)
-![GeoAI, Machine Learning, Spatial-information Models](https://img.shields.io/badge/GeoAI,_Machine_Learning,_Spatial--information_Models-4682B4?style=flat-square)
+# Prof. SAJJAD Muhammad
+#### Geographer | Researcher | Risks-Resilience-Sustainability Nexus | GeoAI, Machine Learning, Spatial-information Models
+
+![Profile Views](https://komarev.com/ghpvc/?username=msajjad3&color=0066CC&label=Profile+Views&style=flat-square)
 
 </div>
 
