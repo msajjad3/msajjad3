@@ -1,11 +1,9 @@
 <div align="center">
-  
-<h1 style="color: #0066CC; font-weight: 700; margin-bottom: 10px;">Prof. SAJJAD Muhammad</h1>
-<h4 style="color: #4682B4; font-weight: 500; line-height: 1.6; padding: 0 20px;">
-  Geographer | Researcher | Risks-Resilience-Sustainability Nexus |<br>
-  GeoAI, Machine Learning, Spatial-information Models
-</h4>
-  
+
+![Prof. SAJJAD Muhammad](https://img.shields.io/badge/Prof._SAJJAD_Muhammad-0066CC?style=for-the-badge&logoColor=white)
+![Geographer | Researcher | Risks-Resilience-Sustainability Nexus](https://img.shields.io/badge/Geographer_|_Researcher_|_Risks--Resilience--Sustainability_Nexus-1E90FF?style=flat-square)
+![GeoAI, Machine Learning, Spatial-information Models](https://img.shields.io/badge/GeoAI,_Machine_Learning,_Spatial--information_Models-4682B4?style=flat-square)
+
 </div>
 
 Prof. Sajjad is a **World top-2% Scientist** (2025: Environmental Sciences and Geography). Currently, he works as a Research Assistant Professor in the Department of Geography and Resource Management at the Chinese University of Hong Kong. His research focuses on geospatial data science for disaster risk reduction, vulnerability and resilience assessment, and science-informed planning. His work couples GeoAI, remote sensing, machine learning, and spatial modeling to address complex human-environment challenges.
