@@ -1,7 +1,7 @@
 <div align="center">
   
-# Prof. SAJJAD Muhammad
-####  Geographer | Researcher | Risks-Resilience-Sustainability Nexus | GeoAI, Machine Learning, Spatial-information Models
+<h1 style="color: #0077B5;">Prof. SAJJAD Muhammad</h1>
+<h4 style="color: #4682B4;">Geographer | Researcher | Risks-Resilience-Sustainability Nexus | GeoAI, Machine Learning, Spatial-information Models</h4>
   
 </div>
 
