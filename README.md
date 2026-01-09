@@ -11,7 +11,7 @@ Brief description of what this project does and technologies used.
 Brief description and key features.
 
 ## 📫 How to Reach Me
-- Email: muhammadsajjad@cuhk.edu.hk
+- Email: [Official Email](muhammadsajjad@cuhk.edu.hk)
 - LinkedIn: https://www.linkedin.com/in/muhammad-sajjad-ph-d-05590865/)
 - Twitter: [@yourhandle](link)
 - Portfolio: [yourwebsite.com][(link)](https://msajjad3.github.io/)
