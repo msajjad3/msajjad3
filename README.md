@@ -1,7 +1,10 @@
 <div align="center">
   
-# <span style="color: #0066CC;">Prof. SAJJAD Muhammad</span>
-#### <span style="color: #1E90FF;">Geographer | Researcher | Risks-Resilience-Sustainability Nexus | GeoAI, Machine Learning, Spatial-information Models</span>
+<h1 style="color: #0066CC; font-weight: 700; margin-bottom: 10px;">Prof. SAJJAD Muhammad</h1>
+<h4 style="color: #4682B4; font-weight: 500; line-height: 1.6; padding: 0 20px;">
+  Geographer | Researcher | Risks-Resilience-Sustainability Nexus |<br>
+  GeoAI, Machine Learning, Spatial-information Models
+</h4>
   
 </div>
 
