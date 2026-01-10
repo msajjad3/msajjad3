@@ -7,16 +7,16 @@
 
 Prof. Sajjad is a **World top-2% Scientist** (2025: Environmental Sciences and Geography). Currently, he works as a Research Assistant Professor in the Department of Geography and Resource Management at the Chinese University of Hong Kong. His research focuses on geospatial data science for disaster risk reduction, vulnerability and resilience assessment, and science-informed planning. His work couples GeoAI, remote sensing, machine learning, and spatial modeling to address complex human-environment challenges.
 
+
+## About my Work
+-Dr. Sajjad runs the **SAJJAD Lab** (**S**patial **A**nalytics for **J**ust & **J**oint **A**daptation to **D**isasters), a research group at the Department of Geography and Resource Management, The Chinese University of Hong Kong, HKSAR, dedicated to advancing geospatial intelligence for systemic resilience.
+
 <div>
   
 ## Latest Updates
 -Dr. Sajjad has been selected as a **Chapter Scientist** to work on the **IPCC's AR7, WG-II, Chapter 2**.
 
 </div>
-
-
-## About my Work
--Dr. Sajjad runs the **SAJJAD Lab** (**S**patial **A**nalytics for **J**ust & **J**oint **A**daptation to **D**isasters), a research group at the Department of Geography and Resource Management, The Chinese University of Hong Kong, HKSAR, dedicated to advancing geospatial intelligence for systemic resilience.
 
 
 
