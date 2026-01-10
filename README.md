@@ -5,7 +5,7 @@
 
 </div>
 
-Prof. Sajjad is a **World top-2% Scientist** (2025: Environmental Sciences and Geography). Currently, he works as a Research Assistant Professor in the Department of Geography and Resource Management at the Chinese University of Hong Kong. His research focuses on geospatial data science for disaster risk reduction, vulnerability and resilience assessment, and science-informed planning. His work couples GeoAI, remote sensing, machine learning, and spatial modeling to address complex human-environment challenges.
+Prof. Sajjad is a **World top-2% Scientist** (2025: Environmental Sciences and Geography) with specialization in Disaster Risks & Resilience in the face of Climatic and Environmental Changes. Currently, he works as a Research Assistant Professor in the Department of Geography and Resource Management at the Chinese University of Hong Kong. His research focuses on geospatial data science for disaster risk reduction, vulnerability and resilience assessment, and science-informed planning. His work couples GeoAI, remote sensing, machine learning, and spatial modeling to address complex human-environment challenges.
 
 
 ## About my Work
